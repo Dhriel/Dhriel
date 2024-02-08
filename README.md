@@ -1,6 +1,6 @@
 # Desenvolvedor Mobile React Native 📱
 
-💬 Me Chamo Adriel, Tenho 21 Anos, sou um entusiasta pela área da tecnologia.
+💬 Me Chamo Adriel, Tenho 21 Anos e sou um entusiasta pela área da tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrielrochadev/) 
 
